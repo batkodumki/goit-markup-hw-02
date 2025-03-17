@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #FFFFFF;
-  margin: 0;
 }
 
 button {
@@ -45,7 +44,6 @@ button:hover, button:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration: none;
 }
 
 .logo-span {
@@ -57,7 +55,6 @@ button:hover, button:focus {
 }
 
 .contact-link {
-  text-decoration: none;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -98,7 +95,7 @@ button:hover, button:focus {
 .eff-sol{
   background-color: #2e2f42;
 }
-.advantages h2{
+.advantages-list{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
