@@ -109,6 +109,9 @@ button:hover, button:focus {
 .team-list{
   background-color: #FFFFFF;
 }
+.team-member{
+  background-color: #FFFFFF;
+}
 .section-title{
   font-size: 36px;
   line-height: 1.11;
