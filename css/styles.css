@@ -6,12 +6,12 @@ body {
 }
 
 button {
+  font-size: 16px;
   background-color: #4D5AE5;
   color: #FFFFFF;
   font-weight: 500;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
@@ -97,4 +97,15 @@ button:hover, button:focus {
 
 .eff-sol{
   background-color: #2e2f42;
+}
+.section-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.advantage-text{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
