@@ -84,7 +84,7 @@ button:hover, button:focus {
 }
 
 .cta-button {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .portfolio-item {
@@ -107,7 +107,7 @@ button:hover, button:focus {
   letter-spacing: 0.02em;
 }
 .team-list{
-  background-color: #f4f4fd;
+  background-color: #FFFFFF;
 }
 .section-title{
   font-size: 36px;
@@ -173,4 +173,10 @@ button:hover, button:focus {
 }
 .address{
   font-style: normal;
+}
+.team{
+  background-color:  #F4F4FD;
+}
+.footer-web{
+   color: #f4f4fd;
 }
