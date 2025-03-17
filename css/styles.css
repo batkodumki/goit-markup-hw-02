@@ -1,9 +1,8 @@
 body {
-  font-family: "Roboto", "Arial", sans-serif;
-  color: #2E2F42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background-color: #FFFFFF;
   margin: 0;
-  padding: 0;
 }
 
 button {
@@ -12,8 +11,6 @@ button {
   font-weight: 500;
   cursor: pointer;
   border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
 }
 
 button:hover, button:focus {
@@ -23,9 +20,6 @@ button:hover, button:focus {
 .nav-list, .contact-list, .advantages-list, .team-list, .portfolio-list {
   list-style: none;
   padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
 }
 
 .nav-link, .contact-link {
@@ -72,19 +66,16 @@ button:hover, button:focus {
 
 .eff-sol {
   background-color: #2E2F42;
-  padding: 50px;
   text-align: center;
 }
 
 .team {
   background-color: #F4F4FD;
-  padding: 50px;
   text-align: center;
 }
 
 .footer {
   background-color: #2E2F42;
-  padding: 20px;
   text-align: center;
 }
 
@@ -94,13 +85,9 @@ button:hover, button:focus {
 
 .cta-button {
   font-size: 18px;
-  margin-top: 20px;
 }
 
 .portfolio-item {
   text-align: center;
   background-color: #FFFFFF;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
