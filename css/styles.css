@@ -54,6 +54,7 @@ button:hover, button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 
 .contact-link:hover, .contact-link:focus {
@@ -99,9 +100,7 @@ button:hover, button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.team-list{
-  background-color: #FFFFFF;
-}
+
 .team-member{
   background-color: #FFFFFF;
 }
@@ -144,6 +143,7 @@ button:hover, button:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 .logo-span{
   color: #f4f4fd;
@@ -161,6 +161,7 @@ button:hover, button:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 .header-logo{
   color: #2E2F42;
@@ -174,3 +175,19 @@ button:hover, button:focus {
 .footer-web{
    color: #f4f4fd;
 }
+.nav-list{
+  list-style: none;
+}
+.contact-list{
+  list-style: none;
+}
+.advantage-list{
+  list-style: none;
+}
+.team-list{
+  list-style: none;
+}
+.portfolio-list{
+  list-style: none;
+}
+
